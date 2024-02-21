@@ -1,61 +1,51 @@
 ---
 isPage: true
+draft: false
 title: Contact
+description: Pour toutes informations ou intérogations concernant la solution.
+image:
+  src: /images/uploads/153.Mention.svg
 hero:
-  surtitle: Surtitle
   title: Contact
-  text: Lorem ipsum
-  align: center
+  text: Pour toutes informations ou intérogations concernant la solution.
   image:
-    src: ''
-    darken: true
-    background_image: true
-  cta:
-    text: Lorem
-    url: /contact/
-    blank: false
-  cta_second:
-    url: /contact/
-    blank: false
-    text: Ipsum
+    src: /images/uploads/153.Mention.svg
 blocks:
-  - type: map
+  - type: cta
+    cta:
+      blank: true
+      url: mailto:medicalify@uncinq.dev
+      text: email à medicalify@uncinq.dev
+    cta_second:
+      blank: true
+      url: 'tel:+33678858604'
+      text: téléphone au 06 78 85 86 04
     background: false
-    location: '{"type":"Point","coordinates":[-0.5737107,44.8425666]}'
-    zoom: 14
     heading:
-      text:
-        Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
-        Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
-      title:
-        Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
-        lectus.
-    grid: large
-  - type: faq
-    background: true
-    heading:
-      title: Frequently asked questions
-      text:
-        Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
-        lectus.
-    items:
-      - title: Vestibulum sed bibendum lectus?
-        text: >-
-          Duis placerat quam et ante **pellentesque**, et porttitor lectus
-          sollicitudin. Fusce maximus hendrerit eros, sed pulvinar erat pretium
-          eget.
+      title: Simplement par
+  # - type: embed
+  #   background: false
+  #   embed: >-
+  #     <!-- Cal inline embed code begins -->
 
+  #     <div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline"></div>
 
-          * porttitor
+  #     <script type="text/javascript">
 
-          * fusce maximus
+  #     (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; typeof namespace === "string" ? (cal.ns[namespace] = api) && p(api, ar) : p(cal, ar); return; } p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
 
-          * pellentesque
-  - type: selected-pages
-    section: pages
-    show_more: true
-    background: false
-    items:
-      - Legal mentions
-      - Privacy policy
+  #     Cal("init", {origin:"https://app.cal.com"});
+
+  #     Cal("inline", {
+  #       elementOrSelector:"#my-cal-inline",
+  #       calLink: "sebousan/medicalify"
+  #     });
+
+  #     Cal("ui", {"theme":"light","styles":{"branding":{"brandColor":"#060c84"}}});
+
+  #     </script>
+
+  #     <!-- Cal inline embed code ends -->
+  #   heading:
+  #     title: Ou prendre rendez-vous en ligne ?
 ---
