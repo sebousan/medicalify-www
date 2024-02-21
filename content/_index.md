@@ -4,7 +4,7 @@ title: Accueil
 image:
   src: /images/uploads/205.OK.svg
 hero:
-  title: Créez le site Web de votre cabinet de santé sécurisé et ultra rapide.
+  title: Créez le site Web de votre cabinet ou clinique de santé sécurisé et ultra rapide.
   image:
     src: /images/uploads/205.OK.svg
   image_2:
@@ -54,9 +54,30 @@ blocks:
       surtitle: Pour qui ?
       title: Pour tous les professionels de la santé
     items:
-      - title: Cabinet médical
       - title: Cabinet dentaire
-      - title: Cabinet esthétique
+        text: Chirurgien dentiste
+        image:
+          src: /images/uploads/caroline-lm-JiBssiZVPZA-unsplash.jpg
+      - title: Cabinet médical
+        text: Médecin généraliste, gynécologue…
+        image:
+          src: /images/uploads/alexandr-podvalny-tE7_jvK-_YU-unsplash.jpg
+      - title: Cabinet d’ophtalmologie
+        text: Ophtalmologue, orthoptiste…
+        image:
+          src: /images/uploads/brands-people-S4fDFtW0CPc-unsplash.jpg
+      - title: Cabinet de rééducation
+        text: Masseur-kinésithérapeute, ostéopathe…
+        image:
+          src: /images/uploads/benjamin-wedemeyer-t_29wZLpYwg-unsplash.jpg
+      - title: Clinique de chirurgie spécialisée
+        text: Esthétique, Sport, dos…
+        image:
+          src: /images/uploads/artur-tumasjan-qLzWvcQq-V8-unsplash.jpg
+      - title: Autres
+        text: Laboratoire, pharmacie…
+        image:
+          src: /images/uploads/rephile-water-cuqp2Jzz_lY-unsplash.jpg
   - type: editorial
     direction: rtl
     surtitle: Orienté métier

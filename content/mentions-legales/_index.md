@@ -39,4 +39,11 @@ Ce site web a été conçu avec {{< blank_link link="https://www.hugolify.io" te
 
 ## Crédits
 
-Toutes les illustrations sont l’œuvre de {{< blank_link link="https://twitter.com/maryamato88" text="Mary Amato" >}}
+- Photo de {{< blank_link link="https://unsplash.com/fr/@freestockpro?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Alexandr Podvalny" >}} sur Unsplash
+- Photo de {{< blank_link link="https://unsplash.com/fr/@carocaro1987?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Caroline LM" >}} sur Unsplash
+- Photo de {{< blank_link link="https://unsplash.com/fr/@arturtumasjan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Artur Tumasjan" >}} sur Unsplash
+- Photo de {{< blank_link link="https://unsplash.com/fr/@brandsandpeople?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Brands&People" >}} sur Unsplash
+- Photo de {{< blank_link link="https://unsplash.com/fr/@revolution_in_filtration?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="RephiLe water" >}} sur Unsplash
+- Photo de {{< blank_link link="https://unsplash.com/fr/@benjaminwedemeyer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Benjamin Wedemeyer" >}} sur Unsplash
+
+Toutes les illustrations sont l’œuvre de {{< blank_link link="https://twitter.com/maryamato88" text="Mary Amato" >}}.
