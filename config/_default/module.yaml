@@ -1,7 +1,3 @@
 imports:
-  # Content
-  # -> Hugolify content types and taxonomies available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
-  # - path: github.com/hugolify/hugolify-theme-casestudies
-
-  # Core theme
+  - path: github.com/hugolify/hugolify-theme-uncinqify
   - path: github.com/hugolify/hugolify-theme
