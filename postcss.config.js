@@ -10,16 +10,7 @@ module.exports = {
       content: ['./hugo_stats.json'],
       dynamicAttributes: ['aria-current', 'href', 'role'],
       safelist: {
-        standard: [
-          'show',
-          'fade',
-          /-backdrop$/,
-          /^is-/,
-          /^has-/,
-          /^js-/,
-          /^[href^="#"]/,
-          /^[href^="mailto"]/
-        ],
+        standard: ['show', 'fade', /-backdrop$/, /^is-/, /^has-/, /^js-/],
         deep: [/^tobii/]
       },
       defaultExtractor: (content) => {

@@ -1,10 +1,10 @@
 {
-  "name": "hugolify-template",
-  "version": "1.11.1",
-  "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
+  "name": "medicalify",
+  "version": "1.0.0",
+  "homepage": "https://www.medicalify.io",
+  "repository": "https://github.com/sebousan/medicalify-www",
   "bugs": {
-    "url": "https://github.com/hugolify/hugolify-template/issues"
+    "url": "https://github.com/sebousan/medicalify-www/issues"
   },
   "author": {
     "email": "sebousan@gmail.com",

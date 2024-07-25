@@ -1,3 +1,3 @@
-module github.com/hugolify/hugolify-template
+module github.com/sebousan/medicalify-www
 
 go 1.19
