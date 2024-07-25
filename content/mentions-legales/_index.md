@@ -39,7 +39,7 @@ Ce site web a été conçu avec {{< blank_link link="https://www.hugolify.io" te
 
 ## Crédits
 
-- Photo de {{< blank_link link="https://unsplash.com/fr/@freestockpro?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Alexandr Podvalny" >}} sur Unsplash
+- Photo de {{< blank_link link="https://unsplash.com/fr/@nappystudio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Nappy" >}} sur Unsplash
 - Photo de {{< blank_link link="https://unsplash.com/fr/@carocaro1987?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Caroline LM" >}} sur Unsplash
 - Photo de {{< blank_link link="https://unsplash.com/fr/@arturtumasjan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Artur Tumasjan" >}} sur Unsplash
 - Photo de {{< blank_link link="https://unsplash.com/fr/@brandsandpeople?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" text="Brands&People" >}} sur Unsplash

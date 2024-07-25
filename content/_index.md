@@ -9,12 +9,11 @@ hero:
     src: /images/uploads/205.OK.svg
   image_2:
     src: /images/uploads/website.png
-  # cta:
-  #   text: Découvrir les fonctionnalités
-  #   url: /les-fonctionnalites/
-  # cta_second:
-  #   text: Pour qui ?
-  #   url: /usages/
+  # ctas:
+  #   - text: Découvrir les fonctionnalités
+  #     url: /les-fonctionnalites/
+  #   - text: Pour qui ?
+  #     url: /usages/
 blocks:
   - type: informations
     column: 4
@@ -61,7 +60,7 @@ blocks:
       - title: Cabinet médical
         text: Médecin généraliste, gynécologue…
         image:
-          src: /images/uploads/alexandr-podvalny-tE7_jvK-_YU-unsplash.jpg
+          src: /images/uploads/nappy-0jjzWib8Juw-unsplash.jpg
       - title: Cabinet d’ophtalmologie
         text: Ophtalmologue, orthoptiste…
         image:
