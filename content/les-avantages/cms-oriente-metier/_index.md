@@ -18,12 +18,4 @@ hero:
 
 Voici quelques captures d’écran de l’espace admin Medicalify qui permet de mettre à jour votre contenu.
 
-{{< figure src="/images/uploads/admin-home.png" legend="Accueil" >}}
-{{< figure src="/images/uploads/admin-cabinets.png" legend="Cabinets" >}}
-{{< figure src="/images/uploads/admin-expertises.png" legend="Expertises" >}}
-
-## Fonctionnalités
-
-Découvrez l’ensemble des fonctionnalités en détail, ainsi que d’autres captures d’écran.
-
-{{< button url="/les-fonctionnalites/" text="Découvrez toutes les fonctionnalités" >}}
+{{< figure src="/images/uploads/admin-home.png" legend="Accueil" screenshot="true" >}}
