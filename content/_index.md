@@ -9,9 +9,9 @@ hero:
     src: /images/uploads/205.OK.svg
   image_2:
     src: /images/uploads/website.png
-  cta:
-    url: /les-avantages/
-    text: Découvrir les avantages
+  ctas:
+    - url: /les-avantages/
+      text: Découvrir les avantages
 blocks:
   - type: informations
     column: 4
