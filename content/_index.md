@@ -54,7 +54,7 @@ blocks:
       title: Pour tous les professionels de la santé
     items:
       - title: Cabinet dentaire
-        text: Chirurgien dentiste
+        text: Chirurgien dentiste, orthodontiste…
         image:
           src: /images/uploads/caroline-lm-JiBssiZVPZA-unsplash.jpg
       - title: Cabinet médical
@@ -77,6 +77,15 @@ blocks:
         text: Laboratoire, pharmacie…
         image:
           src: /images/uploads/rephile-water-cuqp2Jzz_lY-unsplash.jpg
+  - type: cta
+    background: true
+    heading:
+      surtitle: Forfaits et tarifs
+      title: Et un prix adapté à la taille de votre cabinet !
+    cta:
+      url: /tarifs/
+      text: En savoir plus sur les forfaits et tarifs
+
   - type: editorial
     direction: rtl
     surtitle: Orienté métier
