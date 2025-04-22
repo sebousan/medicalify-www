@@ -19,7 +19,7 @@ blocks:
     heading:
       surtitle: Conception
       title: Un site Web de grande qualité !
-      text: Développé en collaboration avec des professionels de la santé.
+      text: Développé en collaboration avec des professionnels de la santé.
     items:
       - title: Ultra rapide
         text: Un site Web très rapide pour un accès même avec une connexion faible.
@@ -49,7 +49,7 @@ blocks:
     background: true
     heading:
       surtitle: Pour qui ?
-      title: Pour tous les professionels de la santé
+      title: Pour tous les professionnels de la santé
     items:
       - title: Cabinet dentaire
         text: Chirurgien dentiste, orthodontiste…
