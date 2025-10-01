@@ -2,11 +2,11 @@
 isIndex: true
 title: Accueil
 image:
-  src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758117383/549.Medical-Check-up_aeuhol.svg
 hero:
   title: Créez le site Web de votre cabinet ou clinique de santé sécurisé et ultra rapide.
   image:
-    src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758117383/549.Medical-Check-up_aeuhol.svg
   image_2:
     src: https://res.cloudinary.com/uncinq/image/upload/v1759305747/website_fyqtjp.png
   ctas:
