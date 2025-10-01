@@ -4,11 +4,11 @@ draft: false
 title: CMS orienté métier
 description: Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à jour de contenu est facilité.
 image:
-  src: /images/uploads/123.Website-builder.png
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116462/123.Website-builder_phc3b0.svg
 hero:
   title: CMS orienté métier
   image:
-    src: /images/uploads/123.Website-builder.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116462/123.Website-builder_phc3b0.svg
   text:
     Grâce à son espace d’administration dédié aux cabinets d’avocats, la mise à
     jour de contenu est facilité.
@@ -18,4 +18,4 @@ hero:
 
 Voici quelques captures d’écran de l’espace admin Medicalify qui permet de mettre à jour votre contenu.
 
-{{< figure src="/images/uploads/admin-home.png" legend="Accueil" screenshot="true" >}}
+{{< figure src="https://res.cloudinary.com/uncinq/image/upload/v1758126305/screenshot-hugolify-decapcms-home_ynatqv.png" legend="Accueil" screenshot="true" >}}

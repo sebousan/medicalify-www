@@ -2,13 +2,13 @@
 isIndex: true
 title: Accueil
 image:
-  src: /images/uploads/205.OK.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
 hero:
   title: Créez le site Web de votre cabinet ou clinique de santé sécurisé et ultra rapide.
   image:
-    src: /images/uploads/205.OK.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
   image_2:
-    src: /images/uploads/website.png
+    src: https://res.cloudinary.com/uncinq/image/upload/v1759305747/website_fyqtjp.png
   ctas:
     - url: /les-avantages/
       text: Découvrir les avantages
@@ -54,27 +54,27 @@ blocks:
       - title: Cabinet dentaire
         text: Chirurgien dentiste, orthodontiste…
         image:
-          src: /images/uploads/caroline-lm-JiBssiZVPZA-unsplash.jpg
+          src: https://res.cloudinary.com/uncinq/image/upload/v1759305884/caroline-lm-JiBssiZVPZA-unsplash_bum0si.jpg
       - title: Cabinet médical
         text: Médecin généraliste, gynécologue…
         image:
-          src: /images/uploads/nappy-0jjzWib8Juw-unsplash.jpg
+          src: https://res.cloudinary.com/uncinq/image/upload/v1759305881/nappy-0jjzWib8Juw-unsplash_jjfcqb.jpg
       - title: Cabinet d’ophtalmologie
         text: Ophtalmologue, orthoptiste…
         image:
-          src: /images/uploads/brands-people-S4fDFtW0CPc-unsplash.jpg
+          src: https://res.cloudinary.com/uncinq/image/upload/v1759305890/brands-people-S4fDFtW0CPc-unsplash_wjuh99.jpg
       - title: Cabinet de rééducation
         text: Masseur-kinésithérapeute, ostéopathe…
         image:
-          src: /images/uploads/benjamin-wedemeyer-t_29wZLpYwg-unsplash.jpg
+          src: https://res.cloudinary.com/uncinq/image/upload/v1759305889/benjamin-wedemeyer-t_29wZLpYwg-unsplash_bjvyqu.jpg
       - title: Clinique de chirurgie spécialisée
         text: Esthétique, Sport, dos…
         image:
-          src: /images/uploads/artur-tumasjan-qLzWvcQq-V8-unsplash.jpg
+          src: https://res.cloudinary.com/uncinq/image/upload/v1759305887/artur-tumasjan-qLzWvcQq-V8-unsplash_vrug3h.jpg
       - title: Autres
-        text: Laboratoire, pharmacie…
+        text: Laboratoire, pharmacie, infirmiers…
         image:
-          src: /images/uploads/rephile-water-cuqp2Jzz_lY-unsplash.jpg
+          src: https://res.cloudinary.com/uncinq/image/upload/v1759305880/rephile-water-cuqp2Jzz_lY-unsplash_hdsjy1.jpg
   - type: cta
     background: true
     heading:
@@ -95,7 +95,7 @@ blocks:
     #   text: En savoir plus sur les fonctionnalités
     #   url: /les-fonctionnalites/
     image:
-      src: /images/uploads/147.Multitasking.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116479/147.Multitasking_wqtjvy.svg
   - type: editorial
     direction: ltr
     surtitle: Modernité
@@ -104,47 +104,12 @@ blocks:
       'Ils sont multiples : CMS (système de gestion de contenu) orienté métier,
       sécurité maximale, site Web performant, rapide, éco-conçu et accessible à
       tous.'
-    # cta:
-    #   text: En savoir plus sur les avantages
-    #   url: /les-avantages/
+    cta:
+      text: En savoir plus sur les avantages
+      url: /les-avantages/
     image:
-      src: /images/uploads/111.Business-plan.svg
-  # - type: figure
-  #   background: true
-  #   screenshot: true
-  #   grid: medium
-  #   offset: center
-  #   heading:
-  #     surtitle: Simplicité d’utilisation
-  #     title: Un espace de gestion de contenu orienté métier
-  #     text: Configuration sur mesure.
-  #   figure:
-  #     src: /images/uploads/admin-multi-cabinets.png
-  #     legend:
-  #       Page d’accueil de l’espace de gestion de contenu, permettant la mise à
-  #       jour de votre site Web.
-  # - type: editorial
-  #   direction: rtl
-  #   surtitle: À tester !
-  #   title: Le site exemple
-  #   text: Naviguez sur notre site de démonstration pour décourvir les différents
-  #     types de contenus.
-  #   cta:
-  #     text: Décourvir le site exemple
-  #     url: /sites-de-demonstration/
-  #   image:
-  #     src: /images/uploads/160.Movie-Time.svg
-  # - type: editorial
-  #   direction: ltr
-  #   surtitle: Avant/après
-  #   title: Les études de cas
-  #   text: Découvrez les migrations de site Web de nos clients que nous avons
-  #     réalisés.
-  #   cta:
-  #     text: En savoir plus sur les études de cas
-  #     url: /etudes-de-cas/
-  #   image:
-  #     src: /images/uploads/152.Study-Group.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116455/111.Business-plan_vozhtx.svg
+  
   - type: cta
     background: true
     heading:
