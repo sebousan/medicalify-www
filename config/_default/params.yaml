@@ -3,3 +3,9 @@ _merge: deep
 image:
   retina:
     desktop: true
+
+# Javascript
+carousel: false
+bootstrap:
+  modal: false
+map: false
