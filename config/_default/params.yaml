@@ -1,5 +1,6 @@
 _merge: deep
 
+# Image
 image:
   retina:
     desktop: true
@@ -9,3 +10,12 @@ carousel: false
 bootstrap:
   modal: false
 map: false
+
+# Brand
+brand:
+  name: Medicalify
+  email: medicalify@uncinq.dev
+  url: medicalify.io
+  your:
+    of: de votre cabinet
+    to: à votre cabinet
