@@ -1,0 +1,49 @@
+links:
+  - title: Pour qui ?
+    url: /usages/
+    links:
+      - title: Cabinet dentaire
+        text: Création de site internet pour cabinet dentaire et d’orthodontie
+        url: /usages/creation-site-internet-cabinet-dentaire-orthodontie/
+      - title: Cabinet médical
+        text: Création de site internet pour cabinet médical
+        url: /usages/creation-site-internet-cabinet-medical/
+      - title: Cabinet ophtalmologie
+        text: Création de site internet pour cabinet ophtalmologie et orthoptiste
+        url: /usages/creation-site-internet-cabinet-ophtalmologie-orthoptiste/
+      - title: Cabinet rééducation
+        text: Création de site internet pour cabinet rééducation et de kinésithérapie
+        url: /usages/creation-site-internet-cabinet-reeducation-kinesitherapie/
+      - title: Clinique spécialisée
+        text: Création de site internet pour clinique spécialisée
+        url: /usages/creation-site-internet-clinique-specialisee/
+      - title: Autres professionnels de santé
+        text: Création de site internet pour autres professionnels de santé
+        url: /usages/creation-site-internet-infirmier-laboratoire-pharmacie/
+  
+  - title: Avantages
+    url: /les-avantages/
+    links:
+      - title: CMS orienté métier
+        text: L’éditeur de contenu ultra simple
+        url: /les-avantages/cms-oriente-metier/
+      - title: Performance optimale
+        text: Grâce à un site Web éco-conçu !
+        url: /les-avantages/eco-conception/
+      - title: Sécurité maximale
+        text: Pas de piratage possible
+        url: /les-avantages/securite-maximale/
+      - title: Accessible à tous
+        text: Même aux personnes en situation de handicap
+        url: /les-avantages/accessible-a-tous/
+      - title: Référencement soigné
+        text: Google favorise un site Web bien conçu
+        url: /les-avantages/referencement-soigne/
+      - title: Infrastructure moderne
+        text: Découvrez l’infrastructure technique
+        url: /les-avantages/infrastructure/
+  - title: Contact
+    url: /contact/
+  - title: Tarifs
+    url: /tarifs/
+    is_highlighted: true

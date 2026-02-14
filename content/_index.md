@@ -1,6 +1,10 @@
 ---
 isIndex: true
 title: Accueil
+description: Créez le site Web de votre cabinet ou clinique de santé sécurisé et ultra rapide.
+seo:
+  title: Création de site internet pour cabinet médical et clinique de santé
+  description: Créez un site web professionnel pour votre cabinet médical ou clinique. Sécurisé, ultra-rapide et optimisé pour le référencement local (SEO/GEO). Solution clé en main pour les professionnels de la santé.
 image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758117383/549.Medical-Check-up_aeuhol.svg
 hero:
@@ -12,6 +16,9 @@ hero:
   ctas:
     - url: /les-avantages/
       text: Découvrir les avantages
+    - url: /usages/
+      text: Pour qui ?
+
 blocks:
   - type: informations
     column: 4
@@ -45,41 +52,27 @@ blocks:
       - title: Pérenne
         text: Un site Web fait pour durer, intemporel.
         icon: clock-history
-  - type: informations
+
+  - type: selected-pages
+    section: usages
     background: true
     heading:
       surtitle: Pour qui ?
       title: Pour tous les professionnels de la santé
     items:
-      - title: Cabinet dentaire
-        text: Chirurgien dentiste, orthodontiste…
-        image:
-          src: https://res.cloudinary.com/uncinq/image/upload/v1759305884/caroline-lm-JiBssiZVPZA-unsplash_bum0si.jpg
-      - title: Cabinet médical
-        text: Médecin généraliste, gynécologue…
-        image:
-          src: https://res.cloudinary.com/uncinq/image/upload/v1759305881/nappy-0jjzWib8Juw-unsplash_jjfcqb.jpg
-      - title: Cabinet d’ophtalmologie
-        text: Ophtalmologue, orthoptiste…
-        image:
-          src: https://res.cloudinary.com/uncinq/image/upload/v1759305890/brands-people-S4fDFtW0CPc-unsplash_wjuh99.jpg
-      - title: Cabinet de rééducation
-        text: Masseur-kinésithérapeute, ostéopathe…
-        image:
-          src: https://res.cloudinary.com/uncinq/image/upload/v1759305889/benjamin-wedemeyer-t_29wZLpYwg-unsplash_bjvyqu.jpg
-      - title: Clinique de chirurgie spécialisée
-        text: Esthétique, Sport, dos…
-        image:
-          src: https://res.cloudinary.com/uncinq/image/upload/v1759305887/artur-tumasjan-qLzWvcQq-V8-unsplash_vrug3h.jpg
-      - title: Autres
-        text: Laboratoire, pharmacie, infirmiers…
-        image:
-          src: https://res.cloudinary.com/uncinq/image/upload/v1759305880/rephile-water-cuqp2Jzz_lY-unsplash_hdsjy1.jpg
+      - cabinet-dentaire
+      - cabinet-medical
+      - cabinet-ophtalmologie
+      - cabinet-reeducation
+      - clinique-specialisee
+      - autres-professionnels-sante
+
   - type: cta
     background: true
     heading:
       surtitle: Forfaits et tarifs
-      title: Et un prix adapté à la taille de votre cabinet !
+      title: Et un prix adapté à vos besoins !
+      text: Aucun frais caché ni gonflé, des forfaits au juste prix.
     cta:
       url: /tarifs/
       text: En savoir plus sur les forfaits et tarifs
@@ -109,7 +102,7 @@ blocks:
       url: /les-avantages/
     image:
       src: https://res.cloudinary.com/uncinq/image/upload/v1758116455/111.Business-plan_vozhtx.svg
-  
+
   - type: cta
     background: true
     heading:
@@ -122,3 +115,4 @@ blocks:
       text: Contactez-nous
       url: /contact/
 ---
+
