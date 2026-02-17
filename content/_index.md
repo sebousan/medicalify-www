@@ -89,6 +89,22 @@ blocks:
     #   url: /les-fonctionnalites/
     image:
       src: https://res.cloudinary.com/uncinq/image/upload/v1758116479/147.Multitasking_wqtjvy.svg
+
+  - type: figure
+    background: false
+    grid: medium
+    offset: center
+    heading:
+      surtitle: Simplicité d’utilisation
+      title: Un espace de gestion de contenu orienté métier
+      text: Configuration sur mesure.
+    figure:
+      src: https://res.cloudinary.com/uncinq/image/upload/v1771335877/screenshot-medicalify-decapcms-expertises_si2ymx.png
+      screenshot: true
+      legend:
+        Page d’accueil de l’espace de gestion de contenu, permettant la mise à
+        jour de votre site Web.
+
   - type: editorial
     direction: ltr
     surtitle: Modernité
@@ -103,6 +119,7 @@ blocks:
     image:
       src: https://res.cloudinary.com/uncinq/image/upload/v1758116455/111.Business-plan_vozhtx.svg
 
+
   - type: cta
     background: true
     heading:
@@ -112,7 +129,9 @@ blocks:
         N’hésitez pas à nous contacter pour parler de votre projet ou planifier
         une démonstration de la solution.
     cta:
-      text: Contactez-nous
+      text: Nous contacter
       url: /contact/
 ---
+
+
 
