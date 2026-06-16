@@ -9,13 +9,14 @@ seo:
   description: Créez le site vitrine de votre clinique spécialisée. Chirurgie esthétique, sport, ophtalmologie. Optimisé SEO, premium et hautement sécurisé.
 image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116872/342.Take-Care_jzhfyu.svg
-  # src: https://res.cloudinary.com/uncinq/image/upload/v1759305887/artur-tumasjan-qLzWvcQq-V8-unsplash_vrug3h.jpg
 hero:
   surtitle: Création site internet
   title: Clinique spécialisée
   text: Une plateforme web premium pour une clinique d'excellence. 
   image:
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116872/342.Take-Care_jzhfyu.svg
+  image_2:
+    src: https://res.cloudinary.com/uncinq/image/upload/v1759305747/website_fyqtjp.png
 blocks:
   - type: informations
     heading:
@@ -68,4 +69,18 @@ blocks:
         text: Oui, nous pouvons intégrer des liens vers vos solutions de prise de rendez-vous en ligne (Doctolib, KelDoc, etc.) pour simplifier le parcours patient.
       - summary: Mon cabinet sera-t-il visible sur Google ?
         text: Oui, nous optimisons votre site pour le référencement local afin de renforcer votre présence sur les moteurs de recherche.
+      - summary: Ma clinique pourra-t-elle être trouvée via les intelligences artificielles (ChatGPT, etc.) ?
+        text: "Oui. De plus en plus de patients posent leurs questions à des assistants comme ChatGPT, Gemini ou Perplexity plutôt que sur un moteur de recherche classique. Nous structurons votre site pour qu'il soit bien compris et recommandé par ces intelligences artificielles : c'est ce qu'on appelle le GEO (optimisation pour les moteurs génératifs)."
+      - summary: Un site internet est-il autorisé par mon Ordre professionnel ?
+        text: Oui. Depuis 2020, les professionnels de santé peuvent disposer d'un site d'information. Nous concevons des sites informatifs et non publicitaires, conformes aux règles déontologiques (information loyale, sans comparaison ni promotion commerciale).
+      - summary: Mon site sera-t-il conforme au RGPD ?
+        text: Oui. Formulaire de contact sécurisé, gestion des cookies, mentions légales et politique de confidentialité sont prévus pour respecter la réglementation sur les données personnelles.
+      - summary: Combien de temps faut-il pour mettre mon site en ligne ?
+        text: Une fois vos informations réunies, votre site peut être en ligne en quelques jours seulement.
+      - summary: L'hébergement et le nom de domaine sont-ils inclus ?
+        text: Oui, nous gérons l'hébergement, le nom de domaine (vous restez propriétaire de celui-ci) et la maintenance technique pour que vous n'ayez à vous occuper de rien.
+      - summary: Puis-je afficher mes avis Google sur le site ?
+        text: Oui, vos avis patients peuvent être mis en avant pour renforcer la confiance des nouveaux visiteurs.
+      - summary: Puis-je publier des témoignages de patients ?
+        text: Oui, dans le respect du cadre déontologique, vous pouvez valoriser des retours d'expérience de patients.
 ---

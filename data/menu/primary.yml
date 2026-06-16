@@ -17,9 +17,18 @@ links:
       - title: Clinique spécialisée
         text: Création de site internet pour clinique spécialisée
         url: /usages/creation-site-internet-clinique-specialisee/
-      - title: Autres professionnels de santé
-        text: Création de site internet pour autres professionnels de santé
-        url: /usages/creation-site-internet-infirmier-laboratoire-pharmacie/
+      - title: Pharmacie
+        text: Création de site internet pour pharmacie et officine
+        url: /usages/creation-site-internet-pharmacie/
+      - title: Laboratoire d'analyses
+        text: Création de site internet pour laboratoire d'analyses médicales
+        url: /usages/creation-site-internet-laboratoire-analyses-medicales/
+      - title: Infirmier libéral
+        text: Création de site internet pour infirmier libéral (IDEL)
+        url: /usages/creation-site-internet-infirmier-liberal/
+      - title: Vétérinaire
+        text: Création de site internet pour vétérinaire et clinique vétérinaire
+        url: /usages/creation-site-internet-veterinaire/
   
   - title: Avantages
     url: /les-avantages/

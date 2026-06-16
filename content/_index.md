@@ -65,7 +65,10 @@ blocks:
       - cabinet-ophtalmologie
       - cabinet-reeducation
       - clinique-specialisee
-      - autres-professionnels-sante
+      - pharmacie
+      - laboratoire
+      - infirmier
+      - veterinaire
 
   - type: cta
     background: true

@@ -8,7 +8,6 @@ seo:
   title: Création site internet pour cabinet dentaire et orthodontiste
   description: Solution de création de site internet pour chirurgien-dentiste et orthodontiste. Optimisé SEO local, sécurisé et responsive. Développez la visibilité de votre cabinet dentaire en ligne.
 image:
-  # src: https://res.cloudinary.com/uncinq/image/upload/v1759305884/caroline-lm-JiBssiZVPZA-unsplash_bum0si.jpg
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116481/149.Doctor_qmp15r.svg
 hero:
   surtitle: Création site internet
@@ -16,6 +15,8 @@ hero:
   text: Valorisez votre expertise dentaire avec un site internet professionnel, moderne et sécurisé.
   image:
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116481/149.Doctor_qmp15r.svg
+  image_2:
+    src: https://res.cloudinary.com/uncinq/image/upload/v1759305747/website_fyqtjp.png
 blocks:
 
   - type: informations
@@ -80,4 +81,18 @@ blocks:
         text: Oui, nous pouvons intégrer des liens vers vos solutions de prise de rendez-vous en ligne (Doctolib, KelDoc, etc.) pour simplifier le parcours patient.
       - summary: Mon cabinet sera-t-il visible sur Google ?
         text: Oui, nous optimisons votre site pour le référencement local afin de renforcer votre présence sur les moteurs de recherche.
+      - summary: Mon cabinet pourra-t-il être trouvé via les intelligences artificielles (ChatGPT, etc.) ?
+        text: "Oui. De plus en plus de patients posent leurs questions à des assistants comme ChatGPT, Gemini ou Perplexity plutôt que sur un moteur de recherche classique. Nous structurons votre site pour qu'il soit bien compris et recommandé par ces intelligences artificielles : c'est ce qu'on appelle le GEO (optimisation pour les moteurs génératifs)."
+      - summary: Un site internet est-il autorisé par mon Ordre professionnel ?
+        text: Oui. Depuis 2020, les professionnels de santé peuvent disposer d'un site d'information. Nous concevons des sites informatifs et non publicitaires, conformes aux règles déontologiques (information loyale, sans comparaison ni promotion commerciale).
+      - summary: Mon site sera-t-il conforme au RGPD ?
+        text: Oui. Formulaire de contact sécurisé, gestion des cookies, mentions légales et politique de confidentialité sont prévus pour respecter la réglementation sur les données personnelles.
+      - summary: Combien de temps faut-il pour mettre mon site en ligne ?
+        text: Une fois vos informations réunies, votre site peut être en ligne en quelques jours seulement.
+      - summary: L'hébergement et le nom de domaine sont-ils inclus ?
+        text: Oui, nous gérons l'hébergement, le nom de domaine (vous restez propriétaire de celui-ci) et la maintenance technique pour que vous n'ayez à vous occuper de rien.
+      - summary: Puis-je afficher mes avis Google sur le site ?
+        text: Oui, vos avis patients peuvent être mis en avant pour renforcer la confiance des nouveaux visiteurs.
+      - summary: Puis-je expliquer le déroulé et le financement des soins ?
+        text: Oui, vous pouvez détailler les étapes (implant, orthodontie…) et les facilités de paiement pour rassurer vos patients en amont.
 ---
