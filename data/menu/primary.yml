@@ -11,24 +11,9 @@ links:
       - title: Cabinet ophtalmologie
         text: Création de site internet pour cabinet ophtalmologie et orthoptiste
         url: /usages/creation-site-internet-cabinet-ophtalmologie-orthoptiste/
-      - title: Cabinet rééducation
-        text: Création de site internet pour cabinet rééducation et de kinésithérapie
-        url: /usages/creation-site-internet-cabinet-reeducation-kinesitherapie/
-      - title: Clinique spécialisée
-        text: Création de site internet pour clinique spécialisée
-        url: /usages/creation-site-internet-clinique-specialisee/
-      - title: Pharmacie
-        text: Création de site internet pour pharmacie et officine
-        url: /usages/creation-site-internet-pharmacie/
-      - title: Laboratoire d'analyses
-        text: Création de site internet pour laboratoire d'analyses médicales
-        url: /usages/creation-site-internet-laboratoire-analyses-medicales/
-      - title: Infirmier libéral
-        text: Création de site internet pour infirmier libéral (IDEL)
-        url: /usages/creation-site-internet-infirmier-liberal/
-      - title: Vétérinaire
-        text: Création de site internet pour vétérinaire et clinique vétérinaire
-        url: /usages/creation-site-internet-veterinaire/
+      - title: Voir l’ensemble des professions
+        text: Création de site internet pour tous les professionnels de santé
+        url: /usages/
   
   - title: Avantages
     url: /les-avantages/
