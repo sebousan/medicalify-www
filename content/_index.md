@@ -6,11 +6,11 @@ seo:
   title: Création de site internet pour cabinet médical et clinique de santé
   description: Créez un site web professionnel pour votre cabinet médical ou clinique. Sécurisé, ultra-rapide et optimisé pour le référencement local (SEO/GEO). Solution clé en main pour les professionnels de la santé.
 image:
-  src: https://res.cloudinary.com/uncinq/image/upload/v1758117383/549.Medical-Check-up_aeuhol.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1781686049/631._Medical-Examination_ql3e5d.png
 hero:
   title: Créez le site Web de votre cabinet ou clinique de santé sécurisé et ultra rapide.
   image:
-    src: https://res.cloudinary.com/uncinq/image/upload/v1758117383/549.Medical-Check-up_aeuhol.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1781685845/631._Medical-Examination_tr3ly9.svg
   image_2:
     src: https://res.cloudinary.com/uncinq/image/upload/v1759305747/website_fyqtjp.png
   ctas:
